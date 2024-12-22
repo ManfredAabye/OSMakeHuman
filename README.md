@@ -6,6 +6,8 @@ Dies ist der Hauptquellcode der MakeHuman-Anwendung. Siehe „Erste Schritte“ 
 
 Zum Zeitpunkt der Erstellung dieses Dokuments ist der Quellcode fast bereit für eine stabile Veröffentlichung.
 
+Starten sie nach dem herunterladen die build_makehuman.bat um eine Windows Version zu erstellen.
+
 ## Supportanfragen
 
 Wenn Sie Fragen zur Software und ihrer Verwendung haben, stellen Sie bitte eine Anfrage in unserem Forum: http://www.makehumancommunity.org/forum.
